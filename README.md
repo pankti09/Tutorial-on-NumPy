@@ -1,2 +1,2 @@
 # Tutorial-on-NumPy
-In this, I have shared programs on Basics of NumPy
+In this, I am going to share programs on Basics of NumPy
